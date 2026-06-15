@@ -49,4 +49,4 @@ Feature: API de cupons
     Dado que o Admin está autenticado na API de cupons 
     Quando realizar cadastrado com metodo POST 
     E preecher somente parte dos campos obrigatorios
-    Então o cupom não é cadastrado 
+    Então o cupom não é cadastrado

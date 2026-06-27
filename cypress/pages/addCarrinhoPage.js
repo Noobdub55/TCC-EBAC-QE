@@ -4,7 +4,7 @@ class addCarrinhoPage{
 
         cy.get('.post-2559 > .product-block').click();
         cy.get('.button-variable-item-M').click();
-        cy.get('.button-variable-item-Green').click();
+        cy.get('.button-variable-item-Red').click();
         cy.get('.single_add_to_cart_button').click();
         cy.get('.dropdown-toggle > .text-skin > .icon-basket').click();
 

@@ -1,0 +1,1 @@
+invalid selector: WebDriverError: Invalid CSS selector 'new UiSelector().resourceId("tab-Search")' when running "element" with method "POST"

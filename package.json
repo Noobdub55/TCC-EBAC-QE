@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest",
-    "test:ui": "cypress run",
-    "wdio": "wdio run ./wdio.conf.js"
+  "test": "jest API/testes",
+  "test:api": "jest API/testes",
+  "test:ui": "cypress run",
+  "wdio": "wdio run ./wdio.conf.js"
   },
   "repository": {
     "type": "git",
